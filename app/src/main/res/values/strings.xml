@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">gamers8</string>
+    <string name="TOURNAMENT_1">Pubg Mobile</string>
+    <string name="TOURNAMENT_2">Rocket League</string>
+    <string name="TOURNAMENT_3">Fortnite</string>
+    <string name="TOURNAMENT_4">Rainbow Six Siege</string>
+    <string name="TOURNAMENT_5">Dota 2</string>
+    <string name="esports_tournaments">ESPORTS TOURNAMENTS</string>
+
 </resources>
